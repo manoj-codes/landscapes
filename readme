@@ -1,0 +1,13 @@
+https://github.com/manoj-codes/landscapes
+-----------------------------------------
+
+I - Front-End
+
+  - The solution can be viwed at 'Frontend/index.html'
+  - Tailwind CSS and Alpine JS were used to fetch the data from a JSON file.
+  
+II - Back-end
+
+- The database design can be found in the directory 'Database/'
+- A RESTful API was created on Lumen (Laravel) framework. The Laravel files (models, controller, routes) are in the directory 'laravel/'.
+- The API endpoint for displaying a photographer's details and album is api/photographers/ID - where ID would correspond to the photographer's id, which for this example is '1'.
